@@ -9,6 +9,17 @@ function findAll() {
     return db.query(sql)
         .then(result => result.rows)
 }
+function findAllBySeason(season, year) {
+    const sql = `
+        SELECT * 
+        FROM animes 
+        WHERE season = $1 AND publish_year = $2
+        ORDER BY publish_date;
+    ` 
+    const values = [season,year]
+    return db.query(sql, values)
+        .then(result => result.rows)
+}
 function findByKeyword(keyword) {
     const sql = `
         SELECT * 
@@ -26,10 +37,19 @@ function findByKeyword(keyword) {
             return result.rows
         })
 }
+function findAllArticle() {
+    const sql = `
+        SELECT * 
+        FROM seasonalArticle;`
 
+    return db.query(sql)
+        .then(result => result.rows)
+}
 const Anime = {
     findAll,
-    findByKeyword
+    findByKeyword,
+    findAllBySeason,
+    findAllArticle
 }
 
 module.exports = Anime

@@ -1,1 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+}
+.article-wrapper {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+.anime-wrapper {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+.anime-wrapper img {
+  width: 150px;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+#banner-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.article-wrapper img{
+  width: 100px;
+}
+.anime-list h1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* flex-wrap: wrap; */
+}
+
 

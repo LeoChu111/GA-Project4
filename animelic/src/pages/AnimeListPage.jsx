@@ -5,7 +5,7 @@ import Anime from '../Anime'
 import AnimeSeasonArticle from '../AnimeSeasonArticle'
 import { Link } from 'react-router-dom'
 
-export default function HomePage() {
+export default function AnimeListPage() {
     const [animes, setAnimes] = useState([])
     const [articles, setArticles] = useState([])
     useEffect(() => {
@@ -18,6 +18,7 @@ export default function HomePage() {
           .then(res => res.json())
           .then(data => setArticles(data))
     }, [])
+    
     return (
         <>
             <main>
@@ -25,7 +26,6 @@ export default function HomePage() {
                     <AnimeSeasonArticle
                     key={animeArticle.id} 
                     animeArticle={animeArticle}
-                    animes={animes}
                     />
                 )}
             </main>
