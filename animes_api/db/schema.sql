@@ -45,11 +45,56 @@ INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,s
 VALUES ('Jujutsu Kaisen 2nd Season','https://t.ly/L9Kwq', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://jujutsukaisen.jp/', 'https://www.youtube.com/watch?v=PKHQuQF1S8k',2023,'Summer','2023-07-06');
 INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
 VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Tate no Yuusha no Nariagari Season 3','https://shorturl.at/fnoGU', 'After defeating the Spirit Tortoise, Naofumi has no time for rest. An attack from the next Guardian Beast is imminent, but the three other Cardinal Heroes have gone missing. So, Naofumi and his party set out to search for the legendary trio.', 'http://shieldhero-anime.jp/', 'https://www.youtube.com/watch?v=PkmvmGmFFPE',2023,'Autumn','2023-10-06');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+INSERT INTO animes (title,poster,summary, official_link, trailer, publish_year,season,publish_date) 
+VALUES ('Zom 100: Zombie ni Naru made ni Shitai 100 no Koto','https://t.ly/LFXHr', 'qpiwyerioqhfobasnlfdlvn lad fladhfoqpihfopqihoqe', 'https://zom100.com/', 'https://www.youtube.com/watch?v=l2mag0-sn80',2023,'Summer','2023-07-09');
+
 
 INSERT INTO seasonalArticle (year, season, month, month_Integer, poster)
 VALUES (2023, 'Autumn', 'October', 10, 'https://t.ly/Y3ws_');
 INSERT INTO seasonalArticle (year, season, month, month_Integer, poster)
 VALUES (2023, 'Summer', 'July', 7, 'https://t.ly/L9Kwq');
+INSERT INTO seasonalArticle (year, season, month, month_Integer, poster)
+VALUES (2023, 'Spring', 'April', 4, 'https://shorturl.at/glWXY');
+INSERT INTO seasonalArticle (year, season, month, month_Integer, poster)
+VALUES (2023, 'Winter', 'January', 1, 'https://shorturl.at/ikKY5');
 INSERT INTO seasonalArticle (year, season, month, month_Integer, poster)
 VALUES (2022, 'Autumn', 'October', 10, 'https://t.ly/LT11O');
 INSERT INTO seasonalArticle (year, season, month, month_Integer, poster)

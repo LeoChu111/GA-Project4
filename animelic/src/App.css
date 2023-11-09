@@ -27,9 +27,11 @@
   justify-content: space-between;
 }
 .anime-wrapper article h3 {
+  color: #BFA181;
   margin: 0;
 }
 .anime-wrapper article p {
+  color: #BFA181;
   margin: 0;
 }
 .animes-list {
@@ -42,7 +44,7 @@
   width: 250px;
 }
 .anime-details {
-  width: 100%;
+  width: 70%;
 }
 .anime-details .links {
   margin-bottom: 10px;
@@ -52,7 +54,7 @@
   display: flex;
   flex-direction: row;
   gap: 30px;
-  border: 1px solid yellow;
+  align-items: center;
 }
 .navbar {
   display: flex;

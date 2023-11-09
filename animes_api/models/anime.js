@@ -24,7 +24,9 @@ function findByKeyword(keyword) {
     const sql = `
         SELECT * 
         FROM animes 
-        WHERE title LIKE '%' || $1 || '%';`
+        WHERE title LIKE '%' || $1 || '%'
+        ORDER BY publish_year DESC;
+        `
      
     return db.query(sql, [keyword])
         .then(result => {
@@ -40,7 +42,8 @@ function findByKeyword(keyword) {
 function findAllArticle() {
     const sql = `
         SELECT * 
-        FROM seasonalArticle;`
+        FROM seasonalArticle
+        ORDER BY year DESC;`
 
     return db.query(sql)
         .then(result => result.rows)

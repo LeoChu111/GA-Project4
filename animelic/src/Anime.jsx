@@ -13,21 +13,22 @@ export default function Anime({anime}) {
                 <a href={anime.trailer}>PV</a>
             </div>
 
-            <div>
+            <div className='grid-container'>
                 <aside>
                     <img src={anime.poster} alt="" />
                 </aside>
                 <article>
                     <h3>Staff</h3>
-                    <p>Actor1: abc</p>
-                    <p>Actor1: abc</p>
-                    <p>Actor1: abc</p>
+                    <p>Producer: Ogura Mitsutoshi</p>
+                    <p>Producer: Ishikawa Yoshihiro</p>
+                    <p>Producer: Matsumoto Kazuki</p>
+                    <p>Producer: Sasaki Yuusuke</p>
                     <h3>Cast</h3>
-                    <p>Actor1: abc</p>
-                    <p>Actor1: abc</p>
-                    <p>Actor1: abc</p>
-                    <p>Actor1: abc</p>
-                    <p>Actor1: abc</p>
+                    <p>Goblin Slayer: Umehara Yuuichirou</p>
+                    <p>Onna Shinkan: Ogura Yui</p>
+                    <p>Tsurugi no Otome: Endou Aya</p>
+                    <p>Majo: Hikasa Youko</p>
+                    <p>Ushikai Musume: Iguchi Yuka</p>
                 </article>
             </div>
         </div>     
