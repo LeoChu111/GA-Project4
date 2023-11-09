@@ -17,7 +17,9 @@ export default function SeasonArticlePage() {
     return (
         <>  
             <section className='animes-list'>
-            <h1 className='title'>Anime in {season} {year}</h1>
+                <div className='title'>
+                    <h1>Anime in {season} {year}</h1>
+                </div>
             {animes.map(anime => 
                 <Anime 
                 key={anime.id} 

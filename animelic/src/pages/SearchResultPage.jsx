@@ -11,8 +11,7 @@ export default function SearchResultPage() {
         AnimesApi.findByKeyword(keyword)
           .then(res => res.json())
           .then(data => setAnimes(data))
-    }, [])
-
+    }, [keyword])
     return (
         <>  
             <section className='animes-list'>

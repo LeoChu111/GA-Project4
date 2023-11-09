@@ -1,9 +1,9 @@
 * {
   box-sizing: border-box;
-  margin: auto;
 }
 .article-wrapper {
-  border: 1px solid red;
+  /* border: 1px solid red; */
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -11,35 +11,101 @@
   gap: 15px;
 }
 .anime-wrapper {
-  border: 1px solid red;
+  width: 60%;
+  /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   gap: 15px;
+  margin-bottom: 20px;
+}
+.anime-wrapper article {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  justify-content: space-between;
+}
+.anime-wrapper article h3 {
+  margin: 0;
+}
+.anime-wrapper article p {
+  margin: 0;
+}
+.animes-list {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #BFA181;
 }
 .anime-wrapper img {
-  width: 150px;
+  width: 250px;
+}
+.anime-details {
+  width: 100%;
+}
+.anime-details .links {
+  margin-bottom: 10px;
+  justify-content: center;
+}
+.anime-details div {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  border: 1px solid yellow;
 }
 .navbar {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  border-bottom: 1px solid #BFA181;
+}
+.navbar input {
+  border: #BFA181 1px solid;
+  width: 100%;
+  height: 36px;
+  position: relative;
+  padding: 0px 16px;
+  border-radius: 8px;
+  font-family: 'Gotham SSm A', 'Gotham SSm B', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  background-color: transparent;
+  outline: none;
+  color: white;
+  box-shadow: 0px 4px 20px 0px transparent;
+  transition: 0.3s background-color ease-in-out, 0.3s box-shadow ease-in-out, 0.1s padding ease-in-out;
+  -webkit-appearance: none;
+  margin-bottom: 10px;
+}
+#banner {
+  height: 100px;
+  
 }
 #banner-content {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
   align-items: center;
+}
+#banner-content img {
+  width: 50px;
+}
+#banner-content h1 {
+  flex-grow: 1;
 }
 .article-wrapper img{
   width: 100px;
 }
-.anime-list h1 {
+.title {
+  width: 100%;
   display: flex;
   align-items: center;
   flex-direction: column;
+  background-color: #BFA181;
+}
+.title h1 {
+  color: #0A1828;
 }
 main {
   display: flex;
@@ -48,4 +114,14 @@ main {
   /* flex-wrap: wrap; */
 }
 
-
+.app {
+  width: 80%;
+  margin: auto;
+}
+.copyright {
+  margin-top: 20px;
+  border-top: #BFA181 1px solid;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

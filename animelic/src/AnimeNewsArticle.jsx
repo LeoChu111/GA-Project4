@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 import './App.css'
 
-export default function AnimeSeasonArticle({animeArticle, animes}) {
+export default function AnimeNewsArticle({animeArticle, animes}) {
     const navigate = useNavigate();
     function handleClick(e) {
         navigate(`/${animeArticle.season}/${animeArticle.year}`);

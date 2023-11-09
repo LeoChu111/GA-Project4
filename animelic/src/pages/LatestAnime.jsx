@@ -9,7 +9,7 @@ export default function LatestAnime() {
 
     useEffect(() => {
 
-        AnimesApi.findAllBySeason('autumn', 2021)
+        AnimesApi.findAllBySeason('Autumn', 2021)
           .then(res => res.json())
           .then(data => setAnimes(data))
     
