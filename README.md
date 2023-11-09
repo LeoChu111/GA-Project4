@@ -6,8 +6,8 @@ Animelic is a website that display animes list base on seasons, user can click o
 
 ## ScreenShot
 
-<img width="1440" alt="sample1" src="https://postimg.cc/k6Zph9dZ">
-<img width="1440" alt="sample2" src="https://postimg.cc/cKvj76pY">
+<img width="1440" alt="sample1" src="https://i.postimg.cc/C5Lp5LrF/Screenshot-2023-11-09-at-11-44-21-PM.png">
+<img width="1440" alt="sample2" src="https://i.postimg.cc/7L9kk2XB/Screenshot-2023-11-09-at-11-46-49-PM.png">
 
 ## Technologies Used
 
