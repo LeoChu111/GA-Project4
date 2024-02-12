@@ -15,3 +15,5 @@ export function findAllArticle() {
 export function findByKeyword(keyword) {
     return fetch(`/api/animes/${keyword}`)
 }
+
+
