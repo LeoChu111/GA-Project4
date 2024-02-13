@@ -6,7 +6,7 @@ const animesRouter = require('./routes/animes_router')
 const session = require('express-session')
 
 
-app.use(express.static('client'))
+app.use(express.static('animelic'))
 app.use(express.json())
 
 
