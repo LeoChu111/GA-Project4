@@ -7,7 +7,10 @@ export default defineConfig({
   server: {
     proxy: {
        //'/api': 'http://localhost:8080/'
-      '/api': 'https://animelic.onrender.com/'
+      '/api': {
+        target: 'https://animelic.onrender.com/',
+        changeOrigin: true,
+      }
     }
   }
 })
