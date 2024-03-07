@@ -10,8 +10,19 @@ export default function HomePage() {
     const [articles, setArticles] = useState([])
     useEffect(() => {
         AnimesApi.findAll()
-          .then(res => res.json())
+          .then(res => {
+            if (!res.ok) {
+              throw new Error('Network response was not ok');
+            }
+            return res.json();
+          })
+          .then(data => {
+            console.log(data);
+          })
           .then(data => setAnimes(data))
+          .catch(error => {
+            console.error('Error:', error);
+          });
     }, [])
     useEffect(() => {
         AnimesApi.findAllArticle()

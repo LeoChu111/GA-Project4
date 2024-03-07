@@ -15,8 +15,6 @@ export function findAllArticle() {
 export function findByKeyword(keyword) {
     return fetch(`/api/animes/${keyword}`)
 }
-
-
 // export function findAll() {
 //     return fetch(`https://animelic.onrender.com/api/animes`)
 // }
