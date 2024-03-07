@@ -11,6 +11,8 @@ app.use(express.static('/dist'))
 app.use(express.json())
 
 
+
+
 app.use('/api/animes', animesRouter)
 app.use(session({secret: process.env.SESSION_SECRET || "mistyrose", resave: false, saveUninitialized: true}))
 
